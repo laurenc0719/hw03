@@ -1,3 +1,7 @@
+*** I did both scripts in one prompt with Claude
+
+### Specification A — Earnings Pipeline (Item 2.02)
+
 you are a 530,000 IQ harvard grad who is an expert business intelligence analyst and has extensive experience in finance and understands SEC filings inside and out. I need a python script that fufills the following requirements completely and without exception:
 
 ```markdown
@@ -40,3 +44,5 @@ You will extract data for these five companies. Their CIK numbers are required t
 ```
 
 be sure your output script fulfills all of the following requirements. read every specification i gave you and the five companies completely. also i am checking this over with chatgpt afterwords so be sure to not mess up.
+
+
