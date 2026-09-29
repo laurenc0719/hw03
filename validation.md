@@ -3,7 +3,7 @@
 I checked Apple's fourth quarter FY25 8k.
 
 | Check | Official Source | Your CSV | Match? |
-|---|---|---|
+|---|---|---|---|
 | Apple Q4 FY2025 Revenue | $102.5 billion (Apple press release, Oct 30, 2025: "The Company posted quarterly revenue of $102.5 billion") | 102.5 billion | Yes |
 | Apple Q4 FY2025 EPS Diluted | $1.85 (Apple press release, Oct 30, 2025: "Diluted earnings per share was $1.85") | 1.85 | Yes |
 
@@ -33,7 +33,7 @@ I figure the difference in my text scraping vs. the yfinance is that the press r
 ### 5D — Pipeline Integrity Checks
 
 | Check | Expected | Actual | Pass/Fail |
-|---|---|---|
+|---|---|---|---|
 | `earnings_history.csv` row count | Up to 20 (5 companies × 4 quarters) | 20 | Pass |
 | `executive_events.csv` row count | At least 0 | 24 | Pass |
 | `corporate_events_timeline.csv` created | Yes | Yes (24 rows, one per executive event) | Pass |
