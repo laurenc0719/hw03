@@ -1,0 +1,25 @@
+company,ticker,cik,filing_date,event_type,person_name,title,effective_date
+Apple Inc.,AAPL,0000320193,2026-04-20,appointment,John Ternus,Senior Vice President of Hardware Engineering,NOT_FOUND
+Apple Inc.,AAPL,0000320193,2026-04-20,appointment,Art Levinson,Director,NOT_FOUND
+Apple Inc.,AAPL,0000320193,2026-01-02,appointment,Ben Borders,Principal Accounting Officer,2026-01-01
+Apple Inc.,AAPL,0000320193,2025-12-05,appointment,Jennifer Newstead,NOT_FOUND,2026-03-01
+Microsoft Corporation,MSFT,0000789019,2026-06-05,departure,Reid Hoffman,Director,NOT_FOUND
+Microsoft Corporation,MSFT,0000789019,2026-05-14,appointment,Carmine Di Sibio,Director,2026-05-13
+NVIDIA Corporation,NVDA,0001045810,2026-07-02,departure,Ajay K. Puri,"Executive Vice President, Worldwide Field Operations of NVIDIA Corporation",NOT_FOUND
+NVIDIA Corporation,NVDA,0001045810,2026-07-02,appointment,Nicholas Parker,"Executive Vice President, Worldwide Field Operations",2026-08-24
+NVIDIA Corporation,NVDA,0001045810,2026-05-08,appointment,Suzanne Nora Johnson,Director,2026-07-13
+NVIDIA Corporation,NVDA,0001045810,2026-04-27,departure,Donald Robertson,Vice President,2026-05-04
+NVIDIA Corporation,NVDA,0001045810,2026-04-27,appointment,Scott Gawel,VP and CAO,2026-05-04
+NVIDIA Corporation,NVDA,0001045810,2026-03-06,appointment,Achievement Target,Named Executive Officer Target Award Opportunity for Base Compensation Plan,NOT_FOUND
+NVIDIA Corporation,NVDA,0001045810,2026-01-23,departure,Persis Drell,Director,2026-01-20
+JPMorgan Chase & Co.,JPM,0000019617,2026-06-25,appointment,Troy Rohrbaugh,NOT_FOUND,2026-06-25
+JPMorgan Chase & Co.,JPM,0000019617,2026-06-25,departure,Marianne Lake,NOT_FOUND,NOT_FOUND
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,David Guggina,NOT_FOUND,2026-02-01
+Walmart Inc.,WMT,0000104169,2026-01-16,departure,Kathryn McLay,"Executive Vice President, President and Chief Executive Officer, Walmart International",NOT_FOUND
+Walmart Inc.,WMT,0000104169,2026-01-16,departure,Transition Date,NOT_FOUND,2026-01-31
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,Christopher Nicholas,NOT_FOUND,NOT_FOUND
+Walmart Inc.,WMT,0000104169,2026-01-16,appointment,Latriece Watkins,NOT_FOUND,NOT_FOUND
+Walmart Inc.,WMT,0000104169,2026-01-08,appointment,Shishir Mehrotra,Director,2026-01-08
+Walmart Inc.,WMT,0000104169,2025-11-14,departure,C. Douglas McMillon,NOT_FOUND,2026-01-31
+Walmart Inc.,WMT,0000104169,2025-11-14,appointment,John R. Furner,NOT_FOUND,2026-02-01
+Walmart Inc.,WMT,0000104169,2025-10-22,appointment,Dwayne Milum,NOT_FOUND,2026-02-01

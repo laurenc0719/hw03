@@ -1,0 +1,42 @@
+# ============================================================
+# MIS3060 Business Intelligence with AI - .gitignore
+# ============================================================
+
+# ---- Data files --------------------------------------------
+# Blanket-exclude CSVs so large raw datasets stay out of the repo...
+*.csv
+
+# ...EXCEPT homework deliverables inside any hw0N/ folder (course rule)
+!hw*/*.csv
+
+# ...and the HW3 deliverables when they sit at the repo root
+# (this repo IS the hw03 folder, so hw*/*.csv alone wouldn't match them)
+!/earnings_history.csv
+!/executive_events.csv
+!/corporate_events_timeline.csv
+
+# ---- Python virtual environments ---------------------------
+_venv/
+.venv/
+venv/
+env/
+
+# ---- Python cache / build files ----------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---- Jupyter -----------------------------------------------
+.ipynb_checkpoints/
+
+# ---- Secrets / environment variables -----------------------
+.env
+.env.*
+
+# ---- Editor and OS files -----------------------------------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,3 @@
+# HW03 Analysis: Executive Changes vs. Earnings Announcements
+
+Executive changes tend to come before earnings announcements, not after. Of the 24 events, 16 happened before the nearest earnings filing, 6 happened after, and 2 fell in the same week. The pattern varies by company: Walmart, JPMorgan, and Apple mostly announced changes before earnings, NVIDIA was split, and Microsoft's changes both came after. This is only a lean, not a firm pattern, because several rows come from the same filing (five Walmart rows share one 8-K) and two rows are extraction errors ("Achievement Target" and "Transition Date"). Removing those two rows still leaves the same result (15 before, 5 after).
